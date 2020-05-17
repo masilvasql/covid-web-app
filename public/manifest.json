@@ -5,7 +5,6 @@
   "name": "Corona Virus Status",
   "short_name": "Corona Virus Status",
   "start_url": "/?utm_source=web_app_manifest",
-  "orientation": "portrait",
   "related_applications": [
     {
       "platform": "play",
